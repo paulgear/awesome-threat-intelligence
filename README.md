@@ -235,15 +235,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             NormShield Services provide thousands of domain information (including whois information) that potential phishing attacks may come from. Breach and blacklist services also available. There is free sign up for public services for continuous monitoring.
         </td>
-    </tr> 
-    <tr>
-        <td>
-            <a href="http://www.openbl.org/lists.html" target="_blank">OpenBL.org</a>
-        </td>
-        <td>
-            A feed of IP addresses found to be attempting brute-force logins on services such as SSH, FTP, IMAP and phpMyAdmin and other web applications.
-        </td>
-    </tr>    
+    </tr>
     <tr>
         <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
